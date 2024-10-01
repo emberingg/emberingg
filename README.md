@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
-<img align="left" height="200" src="https://imgur.com/M2gUVei.gif"  />
+<div align="center">
+  <img height="250" src="https://imgur.com/M2gUVei.gif"  />
+</div>
 
 ###
 
@@ -21,10 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/astriids/astriids/output/snake.svg" alt="Snake animation" />
 
 ###
 
