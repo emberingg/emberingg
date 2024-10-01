@@ -1,5 +1,5 @@
 <h1 align="left"></h1>
-<img align="right" height="300" src="https://i.imgur.com/z2Ud2Bj.gif"  />
+
 ###
 
 <img align="right" height="300" src="https://i.imgur.com/z2Ud2Bj.gif"  />
