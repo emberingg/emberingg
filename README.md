@@ -1,35 +1,16 @@
-<h1 align="left"></h1>
+# 💫 About Me:
+. . . What Is one lie most people tell themselves.<br>   . . Till Death Do Us Part.
 
-###
 
-<img align="right" height="300" src="https://i.imgur.com/z2Ud2Bj.gif"  />
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/684468338734530696) 
 
-###
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=astriids&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=astriids&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="left">
-  <a href="https://discord.com/users/684468338734530696" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astriids&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=astriids.astriids&"  />
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
